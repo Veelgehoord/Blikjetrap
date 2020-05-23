@@ -1,0 +1,18 @@
+---
+title: Sterke kanten en moeilijkheden
+author: Peter Hoffenaar
+date: '2018-05-17'
+slug: sterke-kanten-en-moeilijkheden
+categories:
+  - Kinderen
+tags:
+  - Probleemgedrag
+archives: '2018'
+---
+Om psychosociale problemen te signaleren, gebruikt de JGZ vaak de Strengths and Difficulties Questionnaire (SDQ). Pedagoog Stijn Sieckelinck ontving deze vragenlijst ook en zag _‘enkel items die het kind voorsorteren op een diagnose’_ (de Volkskrant, 4 juni 2015).
+
+Negatieve effecten van vroege signalering zijn zeker niet uit te sluiten, maar anderen maken zich zorgen of de lijst wel goed _‘voorsorteert’_. Die zorgen blijken gedeeltelijk onterecht. Een studie onder ruim 2700 Nederlandse adolescenten van Jorien Vugteveen laat zien dat de kwaliteit van de signalering goed is voor ADHD, CD/ODD en ASD, maar onvoldoende voor emotionele problemen.
+
+Hoe we de SDQ het beste kunnen gebruiken zal een punt van discussie blijven: als opsporingsinstrument, alleen bij een vermoeden van problemen, of als hulpmiddel bij een gesprek met ouders?
+
+Vugteveen, J., De Bildt, A., Hartman, C. A., & Timmerman, M. E. (2018). Using the Dutch multi-informant Strengths and Difficulties Questionnaire (SDQ) to predict adolescent psychiatric diagnoses. European Child & Adolescent Psychiatry, 27(10), 1347–1359. https://doi.org/10.1007/s00787-018-1127-y
