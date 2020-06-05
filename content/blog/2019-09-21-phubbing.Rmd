@@ -6,14 +6,17 @@ slug: phubbing
 categories:
   - Opvoeding
   - Onderzoek
-tags:
   - Beeldscherm
+tags:
+  - Phubbing
   - Onderzoeksmethoden
 archives: '2019'
 ---
  [“Nieuwe app geeft ouders notificatie wanneer ze aandacht aan kinderen moeten geven”](https://speld.nl/2019/06/14/nieuwe-app-geeft-ouders-notificatie-wanneer-ze-aandacht-aan-kinderen-moeten-geven/). Een nieuwsbericht van De Speld. Satire met een kern van waarheid. Dat blijkt uit een etnografische studie van Dafna Lemish van de Rutgers-universiteit in Amerika. Zij nam de moeite om 60 gezinnen te observeren tijdens hun bezoek aan de speeltuin. 
 
 Haar veldnotities laten zien dat een grote groep ouders niet reageert op het moment dat hun kind een knuffel wil of hen nodig heeft voor troost of steun. 
+
+{{<youtube id="XguIdCVFSRk" autoplay="true">}} 
 
 Andere situatieschetsen maken inzichtelijk hoe scrollen en typen adequaat toezicht verhinderen. Zo schetst zij hoe een klein mannetje erin slaagt de glijbaan aan het uiteinde op te klimmen en daar vijf minuten lang de andere kinderen tot wanhoop drijft. Als zijn niet veel grotere zusje hem optilt laat zij hem halverwege vallen. Hij maakt een buiteling en begint te huilen. Ook nu kijkt zijn moeder niet op van haar scherm. Dat doet zij pas als haar zoon op de plek is gaan zitten waar alle kinderen in het zand ploffen en iemand luidkeels schreeuwt dat dat kleintje daar moet opdonderen.
 

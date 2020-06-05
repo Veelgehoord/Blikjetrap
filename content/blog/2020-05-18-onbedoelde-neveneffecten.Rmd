@@ -6,8 +6,9 @@ slug: onbedoelde-neveneffecten
 categories:
   - Kinderen
   - Onderzoek
-tags:
   - Pesten
+tags:
+  - Normen
   - Peers
 archives: '2019'
 ---
@@ -15,6 +16,10 @@ Ook de [NVO](https://www.nvo.nl/) gaat voor 0 uithuisplaatsingen, 0 separaties, 
 
 Er blijkt namelijk zoiets te bestaan als de _‘paradox van de fijne school’_. Succesvolle anti-pestprogramma’s zorgen ervoor dat pestkoppen nog maar een kleine groep vormen en de meerderheid vrolijker naar school gaat, maar helaas raken de overgebleven slachtoffers geïsoleerder en daardoor kwetsbaarder. 
 
-Dat hun positie écht verslechtert blijkt uit onderzoek van Tessa Kaufman en Gijs Huitsing. De kleine groep die twee jaar nadat hun school gestart was met het anti-pestprogramma [KiVa](https://www.kivaschool.nl/) nog steeds gepest werd, was somberder geworden en ging met nog minder zelfvertrouwen naar school. Deze schrijnende situatie laten voortbestaan is voor de Groningse onderzoekers geen optie. Dus pleiten zij ervoor om pesten structureel aan te pakken en pas te spreken van succes als we weten dat iedereen veilig en met meer plezier naar school kan.
+Dat hun positie écht verslechtert blijkt uit onderzoek van Tessa Kaufman en Gijs Huitsing naar [KiVa](https://www.kivaschool.nl/). KiVa is Fins voor _'leuke school'_, maar ook de naam van een van de drie programma's die in het onderzoek [Wat werkt tegen pesten](https://www.uu.nl/onderzoek/watwerkttegenpesten) van mei vorig jaar als effectief uit de bus kwam. Onder het motto _'samen maken wij er een fijne school van'_ worden op KiVa-scholen steeds minder kinderen slachtoffer, maar helaas verdwijnt het pestprobleem niet.
+
+{{<youtube id="9fcQ7r-9iCk" autoplay="true">}} 
+
+De Groningse onderzoekers ontdekten dat de kleine groep die twee jaar nadat hun school gestart was met KiVa nog steeds gepest werd, somberder was geworden en met nog minder zelfvertrouwen naar school ging. Deze schrijnende situatie laten voortbestaan is geen optie en dus pleiten de onderzoekers ervoor om pesten structureel aan te pakken en pas te spreken van succes als we weten dat iedereen veilig en met meer plezier naar school kan.
 
 Kaufman, T. M. L., & Huitsing, G. (2019). De paradox van de fijne school. Kind en adolescent, 40(1), 94–96. https://doi.org/10.1007/s12453-019-00199-3

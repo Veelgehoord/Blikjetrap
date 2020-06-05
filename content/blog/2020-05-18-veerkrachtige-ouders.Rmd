@@ -13,7 +13,9 @@ tags:
   - Positiviteit
 archives: '2017'
 ---
-De documentaire [Zorg om Daan](https://www.2doc.nl/speel~KN_1690138~zorg-om-daan-2doc~.html) gaat volgens zijn ouders over een _‘vrolijk zorgenkind’_. Daarmee geven ze blijk van een gebalanceerde kijk op het opvoeden van een kind met een verstandelijke beperking. 
+De documentaire [Zorg om Daan](https://www.2doc.nl/speel~KN_1690138~zorg-om-daan-2doc~.html) gaat volgens zijn ouders over een [‘vrolijk zorgenkind’](https://vrolijkzorgenkind.nl/). Daarmee geven ze blijk van een gebalanceerde kijk op het opvoeden van een kind met een verstandelijke beperking. 
+
+{{<youtube id="sILwdQcbhFk" autoplay="true">}} 
 
 Onderzoekers hebben daarentegen vooral oog gehad voor stress en uitputtingsverschijnselen. Dit terwijl er al sinds 1992 een vragenlijst beschikbaar is voor de positieve kanten. 
 

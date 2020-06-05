@@ -16,7 +16,7 @@ Mensen met een lichte verstandelijke beperking (LVB) in staat stellen hun eigen 
 
 De eerste positieve resultaten dateren al van bijna dertig jaar terug. In een N=1 studie met een zogeheten ABAB-design mocht de elfjarige George afwisselend zelf bepalen wat hij deed of moest hij zijn taakjes in een vooraf bepaalde volgorde doen. 
 
-![](/static/img/blog/ABAB.jpg)
+![](/blog/2018-05-18-keuzevrijheid-en-probleemgedrag_files/ABAB.jpg)
 
 Zodra hij naar hartenlust kon puzzelen, vertoonde hij minder agressief gedrag. Meerdere single-case studies volgden en op basis van meta-analyses van al die studies kan geconcludeerd worden dat interventies gericht op het vergroten van keuzemogelijkheden effectief zijn. 
 
